@@ -1,3 +1,11 @@
+for this fork
+=============
+   need use flate library.
+   check **" / -> others -> flate/ "**
+   
+   the flate file last edit in *"Latest commit 07ce1ea  on Jan 24, 2015"*
+
+
 VizBench
 ========
 
